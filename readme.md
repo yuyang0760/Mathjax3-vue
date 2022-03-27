@@ -16,7 +16,7 @@ import YyMathjax from 'mathjax3-vue'
 Vue.use(YyMathjax)
 ```
 
-or with [config]( http://docs.mathjax.org/en/latest/options/document.html#the-configuration-block)
+or with [config of MathJax3]( http://docs.mathjax.org/en/latest/options/document.html#the-configuration-block)
 
 ```javascript
 import YyMathjax from 'mathjax3-vue'
