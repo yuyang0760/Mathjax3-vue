@@ -1,0 +1,23 @@
+{
+  "name": "mathjax3-vue",
+  "version": "0.0.3",
+  "description": "Vue components for MathJax3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "keywords": [
+    "mathjax3",
+    "mathjax",
+    "latex",
+    "math",
+    "vue",
+    "mathjaxvue"
+  ],
+  "author": "yy",
+  "license": "ISC"
+}
