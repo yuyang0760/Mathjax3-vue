@@ -1,13 +1,13 @@
-# mathjax3-vue
+## mathjax3-vue
 This plugins implements the browser version of Mathjax v3 into vue.
 
 
-# Install
+## Install
 ``` javascript
 yarn add mathjax3-vue
 ```
 
-# Use
+## Use
 
 ### 1.  import and config
 
@@ -16,7 +16,7 @@ import YyMathjax from 'mathjax3-vue'
 Vue.use(YyMathjax)
 ```
 
-or
+or with [config]( http://docs.mathjax.org/en/latest/options/document.html#the-configuration-block)
 
 ```javascript
 import YyMathjax from 'mathjax3-vue'
