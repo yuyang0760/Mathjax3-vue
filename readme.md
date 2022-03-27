@@ -1,9 +1,11 @@
 # mathjax3-vue
-This plugins implements the browser version of Mathjax v3 into vue2.
+This plugins implements the browser version of Mathjax v3 into vue.
 
 
 # Install
-```yarn add mathjax3-vue```
+``` javascript
+yarn add mathjax3-vue
+```
 
 # Use
 
